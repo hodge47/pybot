@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Jetbrains
+.idea/
+
 # API key file
 config.py
